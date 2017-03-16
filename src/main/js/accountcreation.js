@@ -63,6 +63,7 @@ export class AccountCreation extends React.Component {
                 <br/>
                 <AccountComponent callback={this.setNameState}/>
                 <br/>
+
             </div>
         );
     }
